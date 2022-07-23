@@ -1,9 +1,10 @@
 # Default ignored files
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 
 # IntelliJ
 .idea
+*.iml
 ### Maven ###
 target/
 pom.xml.tag
